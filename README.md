@@ -22,6 +22,7 @@ Click here for more information about Nomad Club or visit https://airastana.com/
 * Click on the ‘From’ Scroller
 * Select Departure point
 * Repeat the process for the Arrival point
+
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <a name="dard"></a>
