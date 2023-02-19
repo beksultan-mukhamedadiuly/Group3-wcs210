@@ -22,7 +22,7 @@ Click here for more information about Nomad Club or visit https://airastana.com/
 * Click on the ‘From’ Scroller
 * Select Departure point
 * Repeat the process for the Arrival point
-![Direction](https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/beksultan-mukhamedadiuly/Group3-wcs210/blob/main/direction.gif))
+![Direction](https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/beksultan-mukhamedadiuly/Group3-wcs210/blob/main/direction.gif)
 
 <a name="dard"></a>
 ## 2. Departure and Return Dates
