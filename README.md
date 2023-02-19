@@ -23,7 +23,7 @@ Click here for more information about Nomad Club or visit https://airastana.com/
 * Select Departure point
 * Repeat the process for the Arrival point
 
-![Alt Text](https://github.com/beksultan-mukhamedadiuly/Group3-wcs210/blob/main/direction.gif)
+![Direction](https://github.com/beksultan-mukhamedadiuly/Group3-wcs210/blob/main/direction.gif)
 
 <a name="dard"></a>
 ## 2. Departure and Return Dates
@@ -31,11 +31,17 @@ Click here for more information about Nomad Club or visit https://airastana.com/
   - Select the date on which you want your flight. 
   > If you don’t mind, select +-3 days option to allow flights 3 days prior or after your desired date to happen).
   - Repeat the process for the return flight date. 
+  
+  ![Time1](https://github.com/beksultan-mukhamedadiuly/Group3-wcs210/blob/main/time1.gif)
+
 
 * Select ‘I don’t need a return ticket’ if there is no need to buy it.
 
+![Time22](https://github.com/beksultan-mukhamedadiuly/Group3-wcs210/blob/main/time22.gif)
+
 * In the scroller for ‘Economy’ choose the number of passengers and their ages. Press + to add additional passengers and - to remove it
 Choose between the economy and business classes.
+![pass](https://github.com/beksultan-mukhamedadiuly/Group3-wcs210/blob/main/pass.gif)
 
 * Press the magnifier button to proceed forward
 
@@ -43,7 +49,7 @@ Choose between the economy and business classes.
 ## 3. Specification of date and price
 * In case you selected a “+-3 days” option and a return flight date, a square diagram will appear, otherwise skip this step. 
   > Take a look at the prices and dates. The most cost-effective prices are marked with a green sticker. 
-
+  ![low](https://github.com/beksultan-mukhamedadiuly/Group3-wcs210/blob/main/low.gif)
   - Select a favorable combination of departure and return dates.
   > Prices on the square diagram show the lowest possible cost of two flights on those specific dates. The horizontal part of the diagram corresponds to a departure date, while the vertical row corresponds to the date of the return flight.
 * Further within selected dates choose a satisfying time of flight.
@@ -64,6 +70,8 @@ Choose between the economy and business classes.
 * Choose a desired seat.
 > Seats at the top are closer to the nose of the aircraft. Reserving black seats is free, while yellow seats require additional money to be reserved
 * Repeat the process for the return flight
+
+![seat](https://github.com/beksultan-mukhamedadiuly/Group3-wcs210/blob/main/seatt.gif)
 
 <a name="Finalization"></a> 
 ## 7. Finalization
