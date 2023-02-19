@@ -82,9 +82,10 @@ Click here for more information about Nomad Club or visit https://airastana.com/
 * Choose a payment method and pay for the tickets.
 * Your ticket will be sent to you via email
 > In case you could not proceed to the payment details, please check whether you confirmed agreement with all conditions.
+
 > Please note that for security reasons you have only 60 minutes to make a payment.
 
-In case of any questions, contact the Call Centre. Link for the page with contact telephone numbers is provided below.
+> In case of any questions, contact the Call Centre. Link for the page with contact telephone numbers is provided below.
 https://airastana.com/kaz/ru-ru/O-nas/Kontakty/Tsentr-bronirovaniia-i-informatsii
 
 
