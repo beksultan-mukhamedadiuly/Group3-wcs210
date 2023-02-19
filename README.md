@@ -9,13 +9,13 @@ Nomad Club is the frequent flyer programme of Air Astana. Members of Nomad club 
 Click here for more information about Nomad Club or visit https://airastana.com/kaz/en-us/Nomad-Club/About-Nomad-Club/Nomad-Club-Terms-and-Conditions 
 
 ## Table of Contents
-* [Destination and Location](#dal)
-* [Departure and Return Dates](#dard)
-* [Specification of Date and Prices](#spec)
-* [Passenger Info](#pass)
-* [Services](#service)
-* [Seat Reservation](#seat)
-* [Finalization](#Finalization)
+1. [Destination and Location](#dal)
+2. [Departure and Return Dates](#dard)
+3. [Specification of Date and Prices](#spec)
+4. [Passenger Info](#pass)
+5. [Services](#service)
+6. [Seat Reservation](#seat)
+7. [Finalization](#Finalization)
 
 <a name="dal"></a>
 ## 1. Destination and Location
