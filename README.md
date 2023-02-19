@@ -49,27 +49,28 @@ Choose between the economy and business classes.
 
 <a name="pass"></a>
 ## 4. Passenger info
-Fill the passenger information form. Fill the passenger information such as gender, full name, date of birth, document info, etc. Press continue.
-Note: If you could not go to the next page, please make sure that contact information was entered correctly and all mandatory fields were filled out. Name and Surname should contain letters of the Latin alphabet only.  
+* Fill the passenger information form. Fill the passenger information such as gender, full name, date of birth, document info, etc. Press continue.
+> If you could not go to the next page, please make sure that contact information was entered correctly and all mandatory fields were filled out. Name and Surname should contain letters of the Latin alphabet only.  
 
 <a name="service"></a>
 ## 5. Services
-Adjust the services page according to your needs and/or desires, including extra baggage, special meals and special assistance
+* Adjust the services page according to your needs and/or desires, including extra baggage, special meals and special assistance
 
 <a name="seat"></a> 
 ## 6. Seat reservation
-In the “seat reservation” row press select. Choose a desired seat.
-Note: Seats at the top are closer to the nose of the aircraft. Reserving black seats is free, while yellow seats require additional money to be reserved
-Repeat the process for the return flight
+* In the “seat reservation” row press select
+* Choose a desired seat.
+> Seats at the top are closer to the nose of the aircraft. Reserving black seats is free, while yellow seats require additional money to be reserved
+* Repeat the process for the return flight
 
 <a name="Finalization"></a> 
 ## 7. Finalization
-Confirm the booking details
-Below the price press I agree with all conditions
-Choose a payment method and pay for the tickets.
-Your ticket will be sent to you via email
-In case you could not proceed to the payment details, please check whether you confirmed agreement with all conditions.
-Please note that for security reasons you have only 60 minutes to make a payment.
+* Confirm the booking details
+* Below the price press I agree with all conditions
+* Choose a payment method and pay for the tickets.
+* Your ticket will be sent to you via email
+> In case you could not proceed to the payment details, please check whether you confirmed agreement with all conditions.
+> Please note that for security reasons you have only 60 minutes to make a payment.
 
 In case of any questions, contact the Call Centre. Link for the page with contact telephone numbers is provided below.
 https://airastana.com/kaz/ru-ru/O-nas/Kontakty/Tsentr-bronirovaniia-i-informatsii
