@@ -17,7 +17,6 @@ For more information about joining the Nomad club refer to step №9.
 7. [Finalizing the Purchase](#Finalization)
 8. [FAQ](#FAQ)
 9. [Joining the Nomad Club](#nomad)
-10.[Conclusion](#end)
 
 <a name="dal"></a>
 ## 1. Destination and Location
