@@ -103,7 +103,7 @@ Adjust the services page according to your needs and/or desires. This includes:
   There are two types of refunds: voluntary and involuntary 
   1. Involuntary refund
   
-  In case of an involuntary refund due to flight cancellation or schedule changes, you may apply for a full refund using the following [link](https://help.airastana.com/hc/en-gb/requests/new?).
+   In case of an involuntary refund due to flight cancellation or schedule changes, you may apply for a full refund using the following [link](https://help.airastana.com/hc/en-gb/requests/new?).
    * Choose your issue
    *	Fill in the fields of the application, including personal information and a detailed description of the reason for the return of the ticket.
    *	You may attach additional documents, but it is optional. 
@@ -112,7 +112,8 @@ Adjust the services page according to your needs and/or desires. This includes:
    In case of any questions, please contact Air Astana Help Centre via the following 24-hour phone number: _+7 (702) 702 44 77_. 
     
   2.	Voluntary refund
-In case of a voluntary refund due to personal reasons independent of a major schedule change or airline cancellation please complete [this form](https://airastana.com/kaz/en-us/Book-Manage/Manage/Online-Refund).
+
+   In case of a voluntary refund due to personal reasons independent of a major schedule change or airline cancellation please complete [this form](https://airastana.com/kaz/en-us/Book-Manage/Manage/Online-Refund).
    *	Fill in the fields of the form, including the purchase date of the ticket, email used for booking, payment method, and ticket number. 
    *	If there is more than one ticket, click “Add ticket” for adding tickets. 
    *	Click “Check status”.
