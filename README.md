@@ -2,7 +2,7 @@
 Purpose statement goes here. 
 
 # About Air Astana:
-Air Astana is an air carrier from the Republic of Kazakhstan, the largest airline in the country, operating domestic and international scheduled flights from Astana and Almaty airports.
+Air Astana is the largest airline in the country, operating domestic and international scheduled flights from Astana and Almaty airports. 
 
 ## About the Nomad Club 
 The Nomad Club is a frequent flyer programme of Air Astana. Members of the Nomad club will receive points for eligible Air Astana flights and partner activities. These points can be exchanged for free flights or upgraded tickets.
@@ -49,7 +49,7 @@ For more information about the Nomad Club visit: https://airastana.com/kaz/en-us
 
 <a name="spec"></a>
 ## 3. Specification of date and price
-* In case you selected a “+-3 days” option and a return flight date, a square diagram will appear, otherwise skip this step. 
+* In case you selected a “+-3 days” option and a return flight date, a square diagram will appear, otherwise skip this and the following substeps. 
   > Take a look at the prices and dates. The most cost-effective prices are marked with a green sticker. 
 
 ![low](https://github.com/beksultan-mukhamedadiuly/Group3-wcs210/blob/main/low.gif)
@@ -60,12 +60,23 @@ For more information about the Nomad Club visit: https://airastana.com/kaz/en-us
 
 <a name="pass"></a>
 ## 4. Passenger info
-* Fill in the passenger information form such as gender, full name, date of birth, document info, etc. Then press **continue**.
+Fill in the passenger information form. The required fields are:
+* Gender
+* Name and Surname
+* Document type and its number
+* Date of Birth
+* Email
+* Phone number 
+
+Press **continue**.
 > If you could not go to the next page, please make sure that the contact information was entered correctly and all mandatory fields were filled out. Name and Surname should contain letters of the Latin alphabet only.  
 
 <a name="service"></a>
 ## 5. Services
-* Adjust the services page according to your needs and/or desires, including extra baggage, special meals and special assistance.
+Adjust the services page according to your needs and/or desires. This includes:
+* Extra baggage. You are only allowed to bring the baggage of 8 kg to the plane. For an additional price, you can increase this amount by 23 kg. The price varies from flight to flight.
+* Special Meal (free). You are able to adjust the food given to you. 
+* Special Services (free). This is for people with disabilities. You are able to choose additional assistance from the staff, such as a wheelchair.
 
 <a name="seat"></a> 
 ## 6. Seat reservation
