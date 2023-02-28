@@ -2,7 +2,7 @@
 Purpose statement goes here. 
 
 # About Air Astana:
-“Air Astana is an air carrier from the Republic of Kazakhstan, the largest airline in the country, operating domestic and international scheduled flights from Astana and Almaty airports.”
+Air Astana is an air carrier from the Republic of Kazakhstan, the largest airline in the country, operating domestic and international scheduled flights from Astana and Almaty airports.
 
 ## About the Nomad Club 
 The Nomad Club is a frequent flyer programme of Air Astana. Members of the Nomad club will receive points for eligible Air Astana flights and partner activities. These points can be exchanged for free flights or upgraded tickets.
