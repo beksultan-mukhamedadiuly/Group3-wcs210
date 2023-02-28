@@ -85,6 +85,31 @@ For more information about the Nomad Club visit: https://airastana.com/kaz/en-us
 
 > Please note that for security reasons you have only 60 minutes to pay.
 
+## FAQ
+  ## How to refund a ticket? 
+  There are two types of refunds: voluntary and involuntary. 
+  1.	Involuntary refund
+    In case of an involuntary refund due to flight cancellation or schedule changes, you may apply for a full refund using the following link.
+    -	Choose your issue. 
+    -	Fill in the fields of the application, including personal information and a detailed description of the reason for the return of the ticket.
+    -	You may attach additional documents, but it is optional. 
+    -	Click “Submit”. 
+    In case of any questions, please contact Air Astana Help Centre via the following 24-hour phone number: + 7 702 702 44 77. 
+    
+  2.	Voluntary refund 
+    In case of a voluntary refund due to personal reasons independent of a major schedule change or airline cancellation please complete this form.
+    -	Fill in the fields of the form, including the purchase date of the ticket, email used for booking, payment method, and ticket number. 
+    -	If there is more than one ticket, click “Add ticket” for adding tickets. 
+    -	Click “Check status”. 
+    Cancellation and refund will be made according to the Fare Conditions of your ticket. A refund penalty may be applied if it is required by the Fare Conditions. You can access the conditions of each fare type by visiting this page.  
+    Refunds are generally processed in 5 to 7 working days.
+    How to change the booking/date of departure?
+    Any changes should be made at least 3 days before the departure of the international flights and 1 day before the departure of the internal flights.
+    To change a booking (flight details, select seats, and order special meals), please contact the Air Astana Call Centre at +7 (727) 244 44 77 or send an e-mail to call.centre@airastana.com. You can also change your booking at your local Air Astana office or by visiting this page. 
+    To change the date of departure, please contact Air Astana Help Centre via the following 24-hour phone number: + 7 702 702 44 77.
+  
+
+
 > In case of any questions, contact the Call Centre. Link for the page with contact telephone numbers is provided below.
 https://airastana.com/kaz/ru-ru/O-nas/Kontakty/Tsentr-bronirovaniia-i-informatsii
 
