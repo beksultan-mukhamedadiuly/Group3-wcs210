@@ -1,12 +1,11 @@
 # How to Purchase Tickets Through Air Astana
-Purpose statement goes here. 
+This instruction aims to show how to purchase a ticket through the website of Air Astana. The instruction shows details and steps that may confuse first-time users as well as problems they may encounter during the process.
 
 # About Air Astana:
-Air Astana is the largest airline in the country, operating domestic and international scheduled flights from Astana and Almaty airports. 
-
+Air Astana is the largest airline in Kazakhstan, operating domestic and international scheduled flights from Astana and Almaty airports. Due to the popularity of Air Astana, being aware of how to purchase tickets for their flights might be essential for residents and guests of Kazakhstan. One of the ways to purchase tickets from Air Astana is using their website, **airastana.com**.
 ## About the Nomad Club 
 The Nomad Club is a frequent flyer programme of Air Astana. Members of the Nomad club will receive points for eligible Air Astana flights and partner activities. These points can be exchanged for free flights or upgraded tickets.
-For more information about the Nomad Club visit: https://airastana.com/kaz/en-us/Nomad-Club/About-Nomad-Club/Nomad-Club-Terms-and-Conditions 
+For more information about joining the Nomad club refer to step №9.
 
 ## Table of Contents
 1. [Destination and Location](#dal)
@@ -15,8 +14,10 @@ For more information about the Nomad Club visit: https://airastana.com/kaz/en-us
 4. [Passenger Info](#pass)
 5. [Services](#service)
 6. [Seat Reservation](#seat)
-7. [Finalization](#Finalization)
+7. [Finalizing the Purchase](#Finalization)
 8. [FAQ](#FAQ)
+9. [Joining the Nomad Club](#nomad)
+10.[Conclusion](#end)
 
 <a name="dal"></a>
 ## 1. Destination and Location
@@ -97,6 +98,8 @@ Adjust the services page according to your needs and/or desires. This includes:
 
 > Please note that for security reasons you have only 60 minutes to pay.
 
+## _With this you have completed your purchase of the Air Astana ticket. Have a safe flight!_
+
 <a name="FAQ"></a>
 ## 8. FAQ
   ## How to refund a ticket? 
@@ -131,5 +134,22 @@ To change the date of departure, please contact Air Astana Help Centre via the f
   
 In case of any other questions, contact the Call Centre. Link for the page with contact telephone numbers is provided below.
 https://airastana.com/kaz/ru-ru/O-nas/Kontakty/Tsentr-bronirovaniia-i-informatsii
+
+
+<a name="nomad"></a>
+## 9. Joining the Nomad Club
+Instructions for joining the Nomad Club:
+1.	Navigate to the [Air Astana website](https://airastana.com/kaz/en-us/Nomad-Club/Join-Nomad-Club/Join-Now)   
+2.	Fill out the registration form. You will need to provide your personal information, including full name, date of birth, gender, email address, and contact information. Make sure to fill all the lines marked with an asterisk (*).
+
+    ●	If you already have a Nomad club card that needs activation, check the checkbox beside the Membership Number field.
+ 
+![nomad](https://github.com/beksultan-mukhamedadiuly/Group3-wcs210/blob/main/image.png)
+
+3.	Before proceeding, fill in the captcha box and Click the "Submit" button to complete your registration.
+4.	Check your phone for a confirmation code sent from Air Astana. Enter your four-digit verification code.
+5.	Once your account is confirmed and activated, you can start earning miles(points) for your flights with Air Astana and enjoy the benefits of the Nomad Club program.
+
+With these given steps, you can become part of Air Astana's Nomad Club and start earning rewards for your loyalty to the airline.
 
 
