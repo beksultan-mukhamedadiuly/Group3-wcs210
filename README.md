@@ -148,6 +148,7 @@ Instructions for joining the Nomad Club:
 3.	Before proceeding, fill in the captcha box and Click the "Submit" button to complete your registration.
 4.	Check your phone for a confirmation code sent from Air Astana. Enter your four-digit verification code.
 5.	Once your account is confirmed and activated, you can start earning miles(points) for your flights with Air Astana and enjoy the benefits of the Nomad Club program.
+6.	Once your account is confirmed and activated, you can start earning miles(points) for your flights with Air Astana and enjoy the benefits of the Nomad Club program.
 
 With these given steps, you can become part of Air Astana's Nomad Club and start earning rewards for your loyalty to the airline.
 
